@@ -1,0 +1,13 @@
+{
+  "xpla.version": 1,
+  "name": "Test workshop with dirs!",
+  "dirs": [
+    {
+      "name": "react",
+      "title": "React Example"
+    },
+    {
+      "name": "test2"
+    }
+  ]
+}
