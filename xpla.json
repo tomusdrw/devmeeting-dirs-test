@@ -1,10 +1,15 @@
 {
   "xpla.version": 1,
   "name": "Test workshop with dirs!",
+  "author": {
+    "name": "Tomasz Drwięga",
+    "link": "@tomusdrw"
+  },
   "dirs": [
     {
       "name": "react",
-      "title": "React Example"
+      "title": "React Example",
+      "description": "Nice React example"
     },
     {
       "name": "test2"
